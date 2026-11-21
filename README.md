@@ -20,7 +20,7 @@ python readers/python/so4ag_reader.py ask examples/valid/rental-first-party.json
   --scope branch=https://rental.example/branches/prague-airport
 ```
 
-| | |
+| What | Where |
 |---|---|
 | Repository | [soqvercom/so4ag](https://github.com/soqvercom/so4ag): specification, JSON Schema, profiles, validator, readers in JavaScript and Python |
 | Guide for developers | https://soqver.com/developers |
